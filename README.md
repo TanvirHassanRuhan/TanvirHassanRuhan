@@ -45,18 +45,38 @@ Shahjalal University of Science and Technology (SUST)
 
 ## 📈 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TanvirHassanRuhan&show_icons=true&theme=default)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=TanvirHassanRuhan)
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=TanvirHassanRuhan&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=TanvirHassanRuhan&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
+</p>
 
 ---
 
 ## 🤝 Connect With Me
 
-[GitHub](https://github.com/TanvirHassanRuhan) | [LinkedIn](https://www.linkedin.com/in/tanvirhassanruhan/) | [Facebook](https://www.facebook.com/tanvirhasan.ruhan.1) | [Instagram](https://www.instagram.com/tanvir_ruhan/)
-
-📧 **Email:** ruhant853@gmail.com
+<p align="left">
+  <a href="https://ruhantheanalyst.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/tanvirhassanruhan/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/TanvirHassanRuhan" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.facebook.com/tanvirhasan.ruhan.1" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://www.instagram.com/tanvir_ruhan/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:ruhant853@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 ---
 
-*Turning Data into Meaningful Business Insights.*
+<p align="center">
+  <i>Turning Data into Meaningful Business Insights.</i>
+</p>
