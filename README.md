@@ -39,17 +39,16 @@ Shahjalal University of Science and Technology (SUST)
 
 ### 📈 GitHub Statistics
 
-\<p align="center">
-&#x20; \<img src="[https://github-readme-stats.vercel.app/api?username=TanvirHassanRuhan&show_icons=true&theme=default&hide_border=true](https://github-readme-stats.vercel.app/api?username=TanvirHassanRuhan\&show_icons=true\&theme=default\&hide_border=true)" height="165"/>
-&#x20; \<img src="[https://github-readme-streak-stats.herokuapp.com/?user=TanvirHassanRuhan&theme=default&hide_border=true](https://github-readme-streak-stats.herokuapp.com/?user=TanvirHassanRuhan\&theme=default\&hide_border=true)" height="165"/>
-\</p>
+\<p align="center">   \<img src="[https://github-readme-stats.vercel.app/api?username=TanvirHassanRuhan&show_icons=true&theme=default&hide_border=true](https://github-readme-stats.vercel.app/api?username=TanvirHassanRuhan\&show_icons=true\&theme=default\&hide_border=true)" height="165" alt="GitHub Stats"/>   \<img src="[https://streak-stats.demolab.com/?user=TanvirHassanRuhan&theme=default&hide_border=true](https://streak-stats.demolab.com/?user=TanvirHassanRuhan\&theme=default\&hide_border=true)" height="165" alt="GitHub Streak"/> \</p>
 
 ### 🤝 Connect With Me
 
-\<p align="left">   \<a href="[https://github.com/TanvirHassanRuhan](https://github.com/TanvirHassanRuhan)">     \<img src="[https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg](https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg)" width="32" height="32" alt="GitHub"/>   \</a>   &nbsp;   \<a href="[https://www.linkedin.com/in/tanvirhassanruhan/](https://www.linkedin.com/in/tanvirhassanruhan/)">     \<img src="[https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg](https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg)" width="32" height="32" alt="LinkedIn"/>   \</a>   &nbsp;   \<a href="[https://www.facebook.com/tanvirhasan.ruhan.1](https://www.facebook.com/tanvirhasan.ruhan.1)">     \<img src="[https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/facebook.svg](https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/facebook.svg)" width="32" height="32" alt="Facebook"/>   \</a>   &nbsp;   \<a href="[https://www.instagram.com/tanvir_ruhan/](https://www.instagram.com/tanvir_ruhan/)">     \<img src="[https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/instagram.svg](https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/instagram.svg)" width="32" height="32" alt="Instagram"/>   \</a> \</p>
+\<p align="center">   \<a href="[https://github.com/TanvirHassanRuhan](https://github.com/TanvirHassanRuhan)">     \<img src="[https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg](https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg)" width="32" alt="GitHub"/>   \</a>   &nbsp;&nbsp;   \<a href="[https://www.linkedin.com/in/tanvirhassanruhan/](https://www.linkedin.com/in/tanvirhassanruhan/)">     \<img src="[https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg](https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg)" width="32" alt="LinkedIn"/>   \</a>   &nbsp;&nbsp;   \<a href="[https://www.facebook.com/tanvirhasan.ruhan.1](https://www.facebook.com/tanvirhasan.ruhan.1)">     \<img src="[https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/facebook.svg](https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/facebook.svg)" width="32" alt="Facebook"/>   \</a>   &nbsp;&nbsp;   \<a href="[https://www.instagram.com/tanvir_ruhan/](https://www.instagram.com/tanvir_ruhan/)">     \<img src="[https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/instagram.svg](https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/instagram.svg)" width="32" alt="Instagram"/>   \</a> \</p>
 
 📧 **Email:** [ruhant853@gmail.com](mailto\:ruhant853@gmail.com)
 
 ---
 
-\<p align="center">   \<i>"Turning Data into Meaningful Business Insights."\</i> \</p>
+\<p align="center">
+&#x20; \<i>Turning Data into Meaningful Business Insights.\</i>
+\</p>
