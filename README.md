@@ -1,5 +1,4 @@
-
-![Tanvir Hassan Ruhan](./assets/github-cover.png)
+![Tanvir Hassan Ruhan](./assets/Github%20cover%20photo.png)
 
 # Tanvir Hassan Ruhan
 
